@@ -1,2 +1,3 @@
 # hello-world
-The typical test
+http://www.geology.buffalo.edu
+
